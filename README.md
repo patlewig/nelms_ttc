@@ -1,5 +1,14 @@
 README
 ================
+This is the code repository associated with the manuscript: Nelms MD, Pradeep P and Patlewicz. **2019**
+Evaluating potential refinements to existing Threshold of Toxicological Concern (TTC) values for environmentally-relevant compounds. *Regul Toxicol Pharmacol* 104505  doi: 10.1016/j.yrtph.2019.104505
+
+To re-run the analysis - three data folders need to be downloaded and placed in the same project folder. These are InputData, IntermediateData and OutputFiles. The files are available on Zenodo at 10.5281/zenodo.15498325
+
+The same information is available here: https://gaftp.epa.gov/Comptox/CCTE_Publication_Data/CCED_Publication_Data/PatlewiczGrace/CompTox-TTC_evaluation_refinements-regtoxpharm/ 
+
+The supplementary information provided in the manuscript is also provide as a separate zip file in the same zenodo address.
+
 
 ## Evaluating potential refinements to existing Threshold of Toxicological Concern (TTC) values for environmentally-relevant chemicals
 
